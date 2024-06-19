@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @sjbar03
-- 👀 I’m interested in backend web development and game development.
-- 🌱 I’m currently learning C++ and SQL.
-- 💞️ I’m looking to collaborate on anything I can contribute to!
-- 📫 How to reach me:
-    * Email: sjbar03@gmail.com
-- 😄 Pronouns: he/him
+Hi, I'm Stephen Barlett.
+
+I'm a junior CS major at Cornell. I am interested in electrical engineering and computer architecture.
+
+I'm currently building a study application for my girlfriend, who is in pharmacy school. Some of my other projects include retro game clones and financial trading applications.
 
 <!---
 sjbar03/sjbar03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
