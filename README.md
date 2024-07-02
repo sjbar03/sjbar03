@@ -3,6 +3,7 @@ Hi, I'm Stephen Barlett.
 I'm a junior CS major at Cornell. I am interested in electrical engineering and computer architecture.
 
 🔧Functional Programming -> OCaml🐫
+
 🧠OOP -> Python, Java☕, C++⌨️
 
 💡Vim enthusiast💡
