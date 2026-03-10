@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjbar03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjbar03)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
