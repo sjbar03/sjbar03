@@ -18,17 +18,24 @@
 
 ---
 
-### 🔥 GitHub Streak
+I'm a CS/ECE student at Cornell University interested in Computer Architecture, FPGAs, and Embedded Programming. I do my best to log my progress here or at my portfolio site linked above.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sjbar03&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+
+### 🔥 GitHub Streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sjbar03&theme=tokyonight&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sjbar03&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sjbar03&theme=tokyonight"/>
+</picture>
 
 ---
 
 ### 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjbar03&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjbar03&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=sjbar03&theme=tokyonight"/>
+</picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjbar03)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-sjbar03/sjbar03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
