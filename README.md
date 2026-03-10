@@ -1,17 +1,17 @@
 <div align="center">
 
-# hey, I'm [Your Name] 👋
+# hey, I'm Stephen Barlett 👋
 
 <p>
-  <a href="https://your-personal-site.com" target="_blank">
+  <a href="https://sjbar03.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Personal Site"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="https://linkedin.com/in/stephenbarlett" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/your-username" target="_blank">
+  <a href="https://instagram.com/stephenbarlett" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -20,13 +20,13 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sjbar03&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjbar03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
